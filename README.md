@@ -1,1 +1,2 @@
-# OSSPraclsh
+# OSSPrac
+## Written by Lee SeungHo
